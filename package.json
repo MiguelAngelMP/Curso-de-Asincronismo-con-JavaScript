@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Trabajat con asincronismo en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "collback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Miguel Angel Muñoz Pozos",
+  "license": "MIT"
+}
